@@ -3,6 +3,9 @@
 Web application for calculating the assessment of final theses.
 Optimized for mobile devices.
 
+> [!NOTE]
+> The project is archived. New version: [Grade Calculator](https://github.com/tigion/htwd-project-grade-calculator-vuejs)
+
 - Try it as a [GitHub Page](https://tigion.github.io/htwd-project-grade-calculator/)
 
 ![Screenshot in the webbrowser](README-screenshot.png)
